@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+  
+  text-align: center;
+}
+*{
+  
+}
+
+h1{
+  @apply font-bold text-Dark-Navy text-[24px] mt-[24px] mb-[16px] mx-[8px] 
+}
+p {
+  @apply text-Gray text-[15px] mx-[16px]
+}
+
+
