@@ -13,7 +13,7 @@ body {
 }
 
 h1{
-  @apply font-bold text-Dark-Navy text-[24px] mt-[24px] mb-[16px] mx-[8px] 
+  @apply font-bold text-Dark-Navy text-[24px] mt-[24px] mb-[16px] 
 }
 p {
   @apply text-Gray text-[15px] mx-[16px]
