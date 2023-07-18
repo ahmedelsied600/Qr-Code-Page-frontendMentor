@@ -11,7 +11,7 @@ body {
 
 
 h1{
-  @apply font-bold text-Dark-Navy text-2xl mt-7 mb-[16px]  
+  @apply font-bold text-Dark-Navy text-2xl mt-8 mb-[16px]  
 }
 
 p {
