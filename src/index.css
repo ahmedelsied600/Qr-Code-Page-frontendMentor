@@ -6,13 +6,16 @@ body {
   margin: 0;
   font-family: 'Outfit', sans-serif;
   text-align: center;
+  
 }
 
+
 h1{
-  @apply font-bold text-Dark-Navy text-[24px] mt-[24px] mb-[16px] 
+  @apply font-bold text-Dark-Navy text-2xl mt-[24px] mb-[16px]  
 }
+
 p {
-  @apply text-Gray text-[15px] mx-[16px]
+  @apply text-Gray text-base mx-[16px]
 }
 
 
