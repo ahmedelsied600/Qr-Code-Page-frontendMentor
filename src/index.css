@@ -15,7 +15,7 @@ h1{
 }
 
 p {
-  @apply text-Gray text-base mx-[16px]
+  @apply text-Gray text-base mx-[0.9375rem]
 }
 
 
